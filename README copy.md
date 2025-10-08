@@ -2,22 +2,20 @@
 # Linear Transformation Visualizer
 
 ## Background
-We use matrices throughout multiple field of mathematics, but we seldom quite "see" what changes these matrices make.
-A matrix cannot have 0 as its determinant. But we can't really tell the reason behind it.
+We use matrices throughout multiple fields of mathematics, but we seldom quite "see" what changes these matrices make.
+A matrix with 0 as its determinant is non-invertible. But we can't really tell the reason behind it.
 
 This project is an effort to visualize the mathematics that we've studied in our high school years: Linear Transformations
 
-Highly inspired by 3Blue1Brown and his efforts in visualizing mathematics, Linear Transformation Visualizer attempts for a similar goal: for you to become clearer what mathematics means  
+Highly inspired by 3Blue1Brown's work in visualizing mathematics, Linear Transformation Visualizer aims for a similar goal: for you to become clearer on what mathematics truly represents
 
-A **3D interactive visualizer** that demonstrates how **linear transformations** affect objects and coordinate spaces.
-It allows users to **apply, animate, and explore** transformations such as rotations, scaling, reflections, and shears — all through a real-time rendered cube and grid using **OpenGL**, **Pygame**, and a **Tkinter** matrix input GUI.
 
 ---
 
-## 🧠 Some maths insights
+## Some maths insights
 
 In linear algebra, every linear transformation can be represented by a **matrix**.
-Upon matrix multiplication, the entire space changes it's dimenison: it stretches, rotates, reflects or skews.
+Upon matrix multiplication, the entire space changes its dimenison: it stretches, rotates, reflects or skews.
 And this program allows you to see the phenomenon!
 
 **Note:**
@@ -81,18 +79,6 @@ python linear_transformation_visualizer.py
 
 ---
 
-
----
-
-## Troubleshooting
-
-* If you see an error like `No module named 'OpenGL'` → Run
-  `pip install PyOpenGL PyOpenGL_accelerate`
-* If GUI doesn’t show up → Ensure Tkinter is installed (it comes by default with most Python distributions)
-* Some systems may require a restart after installing `pygame` and `PyOpenGL`.
-
----
-
 ## Preview
 
 *(If you plan to include screenshots later)*
@@ -100,17 +86,9 @@ Add an image like:
 
 ```markdown
 ![Initial Cube](images/initial.png)
+![Matrix Input GUI](images/matrixinput.png)
+![Transformed Cube](images/transformed.png)
+![Terminal View](images/terminal.png)
 ```
 
 ---
-
-## 🧑‍💻 Author
-
-**Prashansa Shrestha**
-*Computer Engineering Student @ Pulchowk Campus*
-📧 [[prashansashrestha@khasti.com](mailto:prashansashrestha@khasti.com)]
-🌐 [GitHub Profile or LinkedIn – optional]
-
----
-
-Would you like me to make a **shorter “student-project style” version** of this README (for submissions or portfolio use)? I can simplify the tone and formatting while keeping it polished.
