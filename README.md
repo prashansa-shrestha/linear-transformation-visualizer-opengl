@@ -15,7 +15,7 @@ It allows users to **apply, animate, and explore** transformations such as rotat
 
 ---
 
-## 🧠 Some maths insights
+## Some maths insights
 
 In linear algebra, every linear transformation can be represented by a **matrix**.
 Upon matrix multiplication, the entire space changes it's dimenison: it stretches, rotates, reflects or skews.
@@ -24,8 +24,9 @@ And this program allows you to see the phenomenon!
 **Note:**
 * Determinant = Volume scaling factor
 * Negative determinant → Orientation reversal
-
+  
 And what happens when the matrix is non-invertible? Run it to find out ;)
+
 ---
 
 ## Instructions to Run
