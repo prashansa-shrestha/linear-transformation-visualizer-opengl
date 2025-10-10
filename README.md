@@ -93,16 +93,6 @@ python linear_transformation_visualizer.py
 * If GUI doesn’t show up → Ensure Tkinter is installed (it comes by default with most Python distributions)
 * Some systems may require a restart after installing `pygame` and `PyOpenGL`.
 
----
-
-## Preview
-
-*(If you plan to include screenshots later)*
-Add an image like:
-
-```markdown
-![Demo Screenshot](images/visualizer_demo.png)
-```
 
 ---
 
