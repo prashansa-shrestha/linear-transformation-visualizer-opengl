@@ -28,6 +28,21 @@ And this program allows you to see the phenomenon!
 And what happens when the matrix is non-invertible? Run it to find out ;)
 
 ---
+## Screenshots
+
+### Initial Interface
+![Initial Interface](images/initial.png)
+
+### Matrix Input
+![Matrix Input](images/matrixinput.png)
+
+### Terminal Output
+![Terminal Output](images/terminal.png)
+
+### Transformed Result
+![Transformed Result](images/transformed.png)
+---
+
 
 ## Instructions to Run
 
