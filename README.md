@@ -27,20 +27,20 @@ And this program allows you to see the phenomenon!
   
 And what happens when the matrix is non-invertible? Run it to find out ;)
 
----
-## Screenshots
+---<h2>Screenshots</h2>
 
-### Initial Interface
-![Initial Interface](images/initial.png)
+<h3>Initial Interface</h3>
+<img src="images/initial.png" width="500"/>
 
-### Matrix Input
-![Matrix Input](images/matrixinput.png)
+<h3>Matrix Input</h3>
+<img src="images/matrixinput.png" width="500"/>
 
-### Terminal Output
-![Terminal Output](images/terminal.png)
+<h3>Terminal Output</h3>
+<img src="images/terminal.png" width="500"/>
 
-### Transformed Result
-![Transformed Result](images/transformed.png)
+<h3>Transformed Result</h3>
+<img src="images/transformed.png" width="500"/>
+
 ---
 
 
