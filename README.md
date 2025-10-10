@@ -96,9 +96,7 @@ python linear_transformation_visualizer.py
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Prashansa Shrestha**
-*Computer Engineering Student @ Pulchowk Campus*
-📧 [[prashansashrestha@khasti.com](mailto:prashansashrestha@khasti.com)]
-🌐 [GitHub Profile or LinkedIn – optional]
+*Computer Engineering Student @ Pulchowk Campus
