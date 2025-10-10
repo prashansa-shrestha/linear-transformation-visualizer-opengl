@@ -112,7 +112,3 @@ Add an image like:
 *Computer Engineering Student @ Pulchowk Campus*
 📧 [[prashansashrestha@khasti.com](mailto:prashansashrestha@khasti.com)]
 🌐 [GitHub Profile or LinkedIn – optional]
-
----
-
-Would you like me to make a **shorter “student-project style” version** of this README (for submissions or portfolio use)? I can simplify the tone and formatting while keeping it polished.
